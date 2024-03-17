@@ -1,8 +1,6 @@
 # Project Architechture
-![Image Description](https://drive.google.com/file/d/1FRFi8Te3nQpdUwVF89DNqBA6zX6raRC7/view?usp=sharing)
-
-
-
+![Image Description](static/architechture.png)
+# Lab
 1.  Clone git repo: `git clone https://github.com/ibm-developer-skills-network/Back-end-Development-Capstone.git`
 2.  Get into the directory by `cd Back-end-Development-Capstone`
 3.  Get into Django code `cd djangoserver`
